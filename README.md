@@ -28,19 +28,19 @@ Available on: https://www.kaggle.com/datasnaek/chess
 2) Forward Selection
 
 # Feature Extraction Methods
-1 - Principal Components Analysis (PCA)
-2 - Linear Discriminant Analysis (LDA)
+1) Principal Components Analysis (PCA)
+2) Linear Discriminant Analysis (LDA)
 
 # Classification Methods
-1 - Logistic Regression
-2 -  Decision Tree Classifier
-3 - Random Forest Classifier
-4 - K – Nearest Neighbor
-5 -  Support Vector Machine
-6 - Gaussian Naive Bayes
-7 - Multi-class Classification with Neural Networks
+1) Logistic Regression
+2)  Decision Tree Classifier
+3) Random Forest Classifier
+4) K – Nearest Neighbor
+5)  Support Vector Machine
+6) Gaussian Naive Bayes
+7) Multi-class Classification with Neural Networks
 
 # Measuring the Performance of Classification Models:
-1 - Confussion Matrix
-2 - Accuracy
-3 - Error Rate / Misclassification Rate
+1) Confussion Matrix
+2) Accuracy
+3) Error Rate / Misclassification Rate
