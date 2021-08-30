@@ -24,8 +24,8 @@ factors with numerical value designated for each level.
 Available on: https://www.kaggle.com/datasnaek/chess
 
 # Feature Selection Methods
-1 - Backward Elimination
-2 - Forward Selection
+1) Backward Elimination
+2) Forward Selection
 
 # Feature Extraction Methods
 1 - Principal Components Analysis (PCA)
